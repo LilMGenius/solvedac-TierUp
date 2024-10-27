@@ -13,5 +13,46 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\Day1">
+      <UniqueIdentifier>{26e64fd6-c844-4f52-8095-f1d5ebc7142c}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="1152.cpp">
+      <Filter>소스 파일\Day1</Filter>
+    </ClCompile>
+    <ClCompile Include="1330.cpp">
+      <Filter>소스 파일\Day1</Filter>
+    </ClCompile>
+    <ClCompile Include="2475.cpp">
+      <Filter>소스 파일\Day1</Filter>
+    </ClCompile>
+    <ClCompile Include="2739.cpp">
+      <Filter>소스 파일\Day1</Filter>
+    </ClCompile>
+    <ClCompile Include="2741.cpp">
+      <Filter>소스 파일\Day1</Filter>
+    </ClCompile>
+    <ClCompile Include="2753.cpp">
+      <Filter>소스 파일\Day1</Filter>
+    </ClCompile>
+    <ClCompile Include="7287.cpp">
+      <Filter>소스 파일\Day1</Filter>
+    </ClCompile>
+    <ClCompile Include="10699.cpp">
+      <Filter>소스 파일\Day1</Filter>
+    </ClCompile>
+    <ClCompile Include="11382.cpp">
+      <Filter>소스 파일\Day1</Filter>
+    </ClCompile>
+    <ClCompile Include="11654.cpp">
+      <Filter>소스 파일\Day1</Filter>
+    </ClCompile>
+    <ClCompile Include="25083.cpp">
+      <Filter>소스 파일\Day1</Filter>
+    </ClCompile>
+    <ClCompile Include="27866.cpp">
+      <Filter>소스 파일\Day1</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
